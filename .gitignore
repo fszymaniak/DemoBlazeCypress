@@ -1,0 +1,12 @@
+dist/
+node_modules/
+obj/
+logs/
+*.log
+*.txt
+testresults/
+screenshots/
+package-lock.json
+cypress/videos/
+cypress/e2e/1-getting-started/
+cypress/e2e/2-advanced-examples/
